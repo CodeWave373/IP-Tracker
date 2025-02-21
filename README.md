@@ -16,7 +16,7 @@ Follow these steps to install the required dependencies and run the script:
 
 You can clone the repository using the following command:
 
-`git clone https://github.com/your-username/track-ip.git`
+```git clone https://github.com/your-username/track-ip.git```
 
 2. Install Dependencies
 
