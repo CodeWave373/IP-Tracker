@@ -59,7 +59,7 @@ Place the downloaded .mmdb files in the same directory as the script.
 
 Once everything is set up, you can run the script with:
 
-`python track_ip.py`
+    python track_ip.py
 
 5. Using the Script
 
