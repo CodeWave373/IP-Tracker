@@ -16,7 +16,7 @@ Follow these steps to install the required dependencies and run the script:
 
 You can clone the repository using the following command:
 
-git clone https://github.com/your-username/track-ip.git
+`git clone https://github.com/your-username/track-ip.git`
 
 2. Install Dependencies
 
@@ -26,11 +26,11 @@ Install pip (Python's package manager):
     Windows: Download Python from https://www.python.org/downloads/ and follow the installation instructions. Ensure to check the box to add Python to PATH during installation.
     macOS: Open the terminal and install Homebrew if it's not already installed by running:
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 Then, install Python with Homebrew:
 
-brew install python3
+`brew install python3`
 
 Linux (Ubuntu/Debian): Open the terminal and run:
 
@@ -40,7 +40,7 @@ Install required packages:
 
 After cloning the repository, navigate to the project directory and run:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 3. Download the GeoLite2/GeoIP2 Database Files
 
@@ -59,7 +59,7 @@ Place the downloaded .mmdb files in the same directory as the script.
 
 Once everything is set up, you can run the script with:
 
-python track_ip.py
+`python track_ip.py`
 
 5. Using the Script
 
